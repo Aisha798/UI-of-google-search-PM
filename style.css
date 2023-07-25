@@ -1,0 +1,119 @@
+ @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&display=swap');
+
+ * {
+
+     margin: 5px;
+     font-family: 'Barlow', sans-serif;
+ }
+
+ .Navbar {
+     position: absolute;
+     top: 90px;
+     margin-left: 300px;
+     margin-top: 40px;
+
+ }
+
+ #nav1,
+ #nav2,
+ #nav3,
+ #nav4,
+ #nav5 {
+
+     background-color: rgb(216, 249, 252);
+     height: 200px;
+     width: 150px;
+     padding: 10px;
+     border-radius: 20px;
+     display: inline;
+
+ }
+
+ a {
+     text-decoration: none;
+     font-size: 20px;
+ }
+
+ #nav1:hover {
+     border: 0.5px solid black;
+ }
+
+ #nav2:hover {
+     border: 0.5px solid black;
+ }
+
+ #nav3:hover {
+     border: 0.5px solid black;
+ }
+
+ #nav4:hover {
+     border: 0.5px solid black;
+ }
+
+ #nav5:hover {
+     border: 0.5px solid black;
+ }
+
+ .Images {
+
+     display: flex;
+     border: 2px solid rgb(0, 0, 0);
+
+ }
+
+ #img1 {
+     display: inline;
+ }
+
+ #img2 {
+     display: inline;
+ }
+
+ #img3 {
+     display: inline;
+     position: relative;
+     top: 210px;
+     right: 170px;
+ }
+
+ #Box1 {
+     height: 400px;
+     width: 525px;
+     background-color: rgb(216, 249, 252);
+     border-radius: 10px;
+
+ }
+
+ #Box2 {
+
+     height: 190px;
+     width: 375px;
+     background-color: rgb(216, 249, 252);
+     border-radius: 10px;
+ }
+
+ #Box3 {
+     height: 190px;
+     width: 375px;
+     background-color: rgb(216, 249, 252);
+     border-radius: 10px;
+ }
+
+ #Box4 {
+     height: 190px;
+     width: 760px;
+     background-color: rgb(216, 249, 252);
+     border-radius: 10px;
+     position: relative;
+     top: 210px;
+     right: 300px;
+ }
+
+ #nm {
+     font-size: 40px;
+ }
+
+ #pp {
+     font-size: 1rem;
+
+ }
